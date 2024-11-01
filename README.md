@@ -1,5 +1,5 @@
 # docker_message_to_api
-![Descripción de la Imagen](https://github.com/jorgejfp/docker_message_to_api/blob/main/image.web?raw=true)
+![Descripción de la Imagen](https://github.com/jorgejfp/docker_message_to_api/blob/main/image.png?raw=true)
 
 
 Author: Jorge
